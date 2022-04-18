@@ -1,0 +1,1 @@
+A dummy project for learning how to use GitHub Action and Codecov.
